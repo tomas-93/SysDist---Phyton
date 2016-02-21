@@ -1,0 +1,2 @@
+# SysDist---Phyton
+Practica de sistemas distribuidos (app lado del servidor), aplicación que envía información y alamacena en un base de datos SQLITE, la información que envía es de maestro y alumnos, los enviar en formato JSON al cliente. el protocolo de envió de información es por TCP/IP implementado la teconologia de Sockets en una comunicación continua en el lenguaje Python. ver el complemento https://github.com/tomas-93/SysDist---Android
